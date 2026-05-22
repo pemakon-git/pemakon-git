@@ -14,8 +14,6 @@
 *Building things that work beautifully, from database to interface.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pemakon-khaipong-681340356)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/p.khaipong)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/bugbass__/)
 [![Profile Views](https://komarev.com/ghpvc/?username=pemakon-git&style=flat-square&color=6366f1)](https://github.com/pemakon-git)
 
 </div>
